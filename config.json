@@ -1,0 +1,20 @@
+{
+    "Palette": {
+        "status": false,
+        "box": null,
+        "rows": 1,
+        "cols": 1,
+        "color_coords": null,
+        "preview": null
+    },
+    "Canvas": {
+        "status": false,
+        "box": null,
+        "preview": null
+    },
+    "Custom Colors": {
+        "status": false,
+        "box": null,
+        "preview": null
+    }
+}
